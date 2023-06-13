@@ -106,7 +106,6 @@ input, select, textarea {
 			transition: none !important;
 		}
 
-/* Type */
 
 	body, input, select, textarea {
 		color: #585858;
@@ -315,7 +314,6 @@ input, select, textarea {
 		text-align: right;
 	}
 
-/* Row */
 
 	.row {
 		display: flex;
@@ -1783,7 +1781,6 @@ input, select, textarea {
 
 		}
 
-/* Section/Article */
 
 	section.special, article.special {
 		text-align: center;
@@ -1801,7 +1798,6 @@ input, select, textarea {
 
 	}
 
-/* Icon */
 
 	.icon {
 		text-decoration: none;
@@ -1901,8 +1897,6 @@ input, select, textarea {
 		dl dd {
 			margin-left: 2em;
 		}
-
-/* Actions */
 
 	.m-n {
 		margin-bottom: 0!important;
@@ -2027,8 +2021,6 @@ input, select, textarea {
 						}
 
 		}
-
-/* Icons */
 
 	ul.icons {
 		cursor: default;
@@ -2273,7 +2265,6 @@ input, select, textarea {
 		border-radius: 100%;
 	}
 
-/* Box */
 
 	.box {
 		border-radius: 4px;
@@ -2294,7 +2285,6 @@ input, select, textarea {
 			padding: 0;
 		}
 
-/* Image */
 
 	.image {
 		border-radius: 4px;
@@ -2786,7 +2776,6 @@ input, select, textarea {
 
 		}
 
-/* Header */
 
 	#header {
 		padding: 2em 0 0.1em 0 ;
@@ -2922,7 +2911,6 @@ input, select, textarea {
 
 		}
 
-/* Menu */
 
 	#wrapper {
 		-moz-transition: opacity 0.45s ease;
@@ -3145,7 +3133,6 @@ input, select, textarea {
 
 		}
 
-/* Footer */
 
 	#footer {
 		padding: 5em 0 2em 0 ;
@@ -3293,8 +3280,6 @@ input, select, textarea {
 					}
 
 		}
-
-/* Wrapper */
 
 	#wrapper > * > .inner {
 		width: 100%;
