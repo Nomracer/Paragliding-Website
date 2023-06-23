@@ -1,5 +1,5 @@
-<!DOCTYPE HTML>
-<html>
+<?php
+?>
 	<head>
 		<title>Nomglide | Parachute Gliding</title>
 		<meta charset="utf-8" />
@@ -14,7 +14,7 @@
 					<header id="header">
 						<div class="inner">
 
-								<a href="index.html" class="logo">
+								<a href="index.php" class="logo">
 									<span class="fa fa-paper-plane"></span> <span class="title">Nomglide</span>
 								</a>
 								<nav>
@@ -29,21 +29,21 @@
 					<nav id="menu">
 						<h2>Menu</h2>
 						<ul>
-							<li><a href="index.html">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 
-							<li><a href="packages.html" class="active">Packages</a></li>
+							<li><a href="packages.php" class="active">Packages</a></li>
 
-							<li><a href="blog.html">Blog</a></li>
+							<li><a href="blog.php">Blog</a></li>
 
 							<li>
 								<a href="#" class="dropdown-toggle">About</a>
 
 								<ul>
-									<li><a href="about.html">About Us</a></li>
-									<li><a href="testimonials.html">Testimonials</a></li>
+									<li><a href="about.php">About Us</a></li>
+									<li><a href="testimonials.php">Testimonials</a></li>
 								</ul>
 							</li>
-							<li><a href="contact.html">Contact Us</a></li>
+							<li><a href="contact.php">Contact Us</a></li>
 						</ul>
 					</nav>
 
@@ -60,7 +60,7 @@
 									<span class="image">
 										<img src="images/product-1.jpg" alt="" />
 									</span>
-									<a href="package-details.html">
+									<a href="package-details.php">
 										<h2>Skydiving Beginner Class</h2>
 										
 										<p><strong>$1300.00 - $1400.00</strong></p>
@@ -78,7 +78,7 @@
 									<span class="image">
 										<img src="images/product-2.jpg" alt="" />
 									</span>
-									<a href="package-details.html">
+									<a href="package-details.php">
 										<h2>Skydiving Intermediate Class</h2>
 										
 										<p><strong>$1400.00 - $1500.00</strong></p>
@@ -96,7 +96,7 @@
 									<span class="image">
 										<img src="images/product-3.jpg" alt="" />
 									</span>
-									<a href="package-details.html">
+									<a href="package-details.php">
 										<h2>Skydiving Professional Class</h2>
 										
 										<p><strong>$1500.00</strong></p>
@@ -115,7 +115,7 @@
 									<span class="image">
 										<img src="images/product-4.jpg" alt="" />
 									</span>
-									<a href="package-details.html">
+									<a href="package-details.php">
 										<h2>Paragliding Beginner Class</h2>
 										
 										<p><strong>$1300.00 - $1400.00</strong></p>
@@ -134,7 +134,7 @@
 									<span class="image">
 										<img src="images/product-5.jpg" alt="" />
 									</span>
-									<a href="package-details.html">
+									<a href="package-details.php">
 										<h2>Paragliding Intermediate Class</h2>
 										
 										<p><strong>$1000.00</strong></p>
@@ -153,7 +153,7 @@
 									<span class="image">
 										<img src="images/product-6.jpg" alt="" />
 									</span>
-									<a href="package-details.html">
+									<a href="package-details.php">
 										<h2>Paragliding Professional Class</h2>
 										
 										<p><strong>$1000.00</strong></p>
@@ -199,4 +199,3 @@
 			<script src="assets/js/main.js"></script>
 
 	</body>
-</html>

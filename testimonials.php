@@ -1,5 +1,5 @@
-<!DOCTYPE HTML>
-<html>
+<?php
+?>
 	<head>
 		<title>Nomglide | Parachute Gliding</title>
 		<meta charset="utf-8" />
@@ -14,7 +14,7 @@
 				<header id="header">
 					<div class="inner">
 
-							<a href="index.html" class="logo">
+							<a href="index.php" class="logo">
 								<span class="fa fa-paper-plane"></span> <span class="title"> Nomglide</span>
 							</a>
 
@@ -31,21 +31,21 @@
 					<h2>Menu</h2>
 					
 					<ul>
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 
-						<li><a href="packages.html">Packages</a></li>
+						<li><a href="packages.php">Packages</a></li>
 
-						<li><a href="blog.html">Blog</a></li>
+						<li><a href="blog.php">Blog</a></li>
 
 						<li>
 							<a href="#" class="dropdown-toggle">About</a>
 
 							<ul>
-								<li><a href="about.html">About Us</a></li>
-								<li><a href="testimonials.html" class="active">Testimonials</a></li>
+								<li><a href="about.php">About Us</a></li>
+								<li><a href="testimonials.php" class="active">Testimonials</a></li>
 							</ul>
 						</li>
-						<li><a href="contact.html">Contact Us</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
 					</ul>
 				</nav>
 
@@ -134,4 +134,3 @@
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/main.js"></script>
 	</body>
-</html>
